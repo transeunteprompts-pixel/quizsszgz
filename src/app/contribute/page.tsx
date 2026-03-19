@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { COFRADIAS, TEMATICAS, REVIEW_MOCK } from "@/lib/quiz-config";
+import { COFRADIAS, TEMATICAS, REVIEW_MOCK } from "../../lib/quiz-config";
 
 export default function ContributePage() {
   return (
