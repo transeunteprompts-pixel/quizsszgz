@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useMemo, useState } from "react";
-import { MOCK_QUESTION, TEMATICAS } from "@/lib/quiz-config";
+import { MOCK_QUESTION, TEMATICAS } from "../../lib/quiz-config";
 
 export default function PlayPage() {
   const [showOptions, setShowOptions] = useState(true);
