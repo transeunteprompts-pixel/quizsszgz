@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { RANKING_MOCK } from "@/lib/quiz-config";
+import { RANKING_MOCK } from "../../lib/quiz-config";
 
 export default function ProfilePage() {
   return (
